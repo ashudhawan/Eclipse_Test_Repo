@@ -12,6 +12,7 @@ public class EmployeeDetails
 		this.name=name;
 	}
 
+//Getname property added
 	public String getName()
 	{
 		return name;
