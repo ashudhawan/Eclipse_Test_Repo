@@ -13,6 +13,7 @@ public class EmpBusinessLogic
 		return(totSalary);
 	}
 	
+	//This module caculates appraisal
 	public double calculateAppraisal(EmployeeDetails emp)
 	{
 		double appraisal=0;
